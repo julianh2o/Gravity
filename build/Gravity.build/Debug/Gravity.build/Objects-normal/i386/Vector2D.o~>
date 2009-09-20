@@ -1,0 +1,3 @@
+/Users/julian/Julian/Programming/C++/Gravity/Vector2D.cpp:32: error: prototype for 'Vector2D Vector2D::getUnitVector() const' does not match any in class 'Vector2D'
+/Users/julian/Julian/Programming/C++/Gravity/Vector2D.h:25: error: candidate is: Vector2D& Vector2D::getUnitVector() const
+/Users/julian/Julian/Programming/C++/Gravity/Vector2D.cpp:32: error: 'Vector2D Vector2D::getUnitVector() const' and 'Vector2D& Vector2D::getUnitVector() const' cannot be overloaded

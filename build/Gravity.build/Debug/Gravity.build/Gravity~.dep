@@ -1,0 +1,13 @@
+41533ed288168f1f96fe01ee7404afc9 61c21485f18282cfc8335a13c2108f72 ffffffffffffffffffffffffffffffff 102 /Users/julian/Desktop/Gravity/build/Debug/Gravity.app
+7e4bcfb1d4c92904ae2412030bb103b1 4143ee8fb4fde35e97ba024005fa9327 ffffffffffffffffffffffffffffffff 30424 /Users/julian/Desktop/Gravity/build/Debug/Gravity.app/Contents/MacOS/Gravity
+000000004b70a976000000000000a3a6 2630b93e1357fbcc171f97618f370f82 ffffffffffffffffffffffffffffffff 16996 /Users/julian/Desktop/Gravity/build/Gravity.build/Debug/Gravity.build/Objects-normal/i386/main.o
+000000004733b89900000000000356f7 587b768f83237469b93b856284ab64bc ffffffffffffffffffffffffffffffff 39876 /Users/julian/Desktop/Gravity/build/Gravity.build/Debug/Gravity.build/Objects-normal/i386/SDLMain.o
+000000004778883500000000000000cc ee39150448eaf93fd8db7ba1340aae9d ffffffffffffffffffffffffffffffff 204 /Users/julian/Desktop/Gravity/build/Debug/Gravity.app/Contents/Frameworks/SDL.framework
+000000004a860b2c0000000000000214 90620ae8ad363f6377bb6a0c4e45931a ffffffffffffffffffffffffffffffff 532 /Users/julian/Desktop/Gravity/build/Debug/Gravity.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 a01839824fd186d9e49600520e57458e ffffffffffffffffffffffffffffffff 8 /Users/julian/Desktop/Gravity/build/Debug/Gravity.app/Contents/PkgInfo
+00000000000000000000000000000000 a01839824fd186d9e49600520e57458e ffffffffffffffffffffffffffffffff 768 /Users/julian/Desktop/Gravity/build/Debug/Gravity.app/Contents/Info.plist
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/julian/Desktop/Gravity/build/Gravity.build/Debug/Gravity.build/Objects-normal/i386/whale.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/julian/Desktop/Gravity/build/Gravity.build/Debug/Gravity.build/Objects-normal/i386/swim.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/julian/Desktop/Gravity/build/Gravity.build/Debug/Gravity.build/Objects-normal/i386/shark.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/julian/Desktop/Gravity/build/Gravity.build/Debug/Gravity.build/Objects-normal/i386/dolphin.o
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /Users/julian/Desktop/Gravity/build/Gravity.build/Debug/Gravity.build/Objects-normal/i386/atlantis.o

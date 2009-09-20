@@ -1,0 +1,4 @@
+/Users/julian/Desktop/Gravity/EventBroadcaster.cpp:13: error: prototype for 'EventBroadcaster::EventBroadcaster()' does not match any in class 'EventBroadcaster'
+/Users/julian/Desktop/Gravity/EventBroadcaster.h:19: error: candidates are: EventBroadcaster::EventBroadcaster(const EventBroadcaster&)
+/Users/julian/Desktop/Gravity/EventBroadcaster.h:22: error:                 EventBroadcaster::EventBroadcaster()
+/Users/julian/Desktop/Gravity/EventBroadcaster.cpp:13: error: template definition of non-template 'EventBroadcaster::EventBroadcaster()'

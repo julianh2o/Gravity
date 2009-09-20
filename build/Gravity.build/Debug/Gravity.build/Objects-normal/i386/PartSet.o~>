@@ -1,0 +1,3 @@
+/Users/julian/Julian/Programming/C++/Gravity/PartSet.cpp:20: error: prototype for 'int PartSet::getSize()' does not match any in class 'PartSet'
+/Users/julian/Julian/Programming/C++/Gravity/PartSet.h:21: error: candidate is: void PartSet::getSize()
+/Users/julian/Julian/Programming/C++/Gravity/PartSet.cpp:20: error: 'int PartSet::getSize()' and 'void PartSet::getSize()' cannot be overloaded
